@@ -1,0 +1,9 @@
+{
+	"engine":"google",
+	"engine_links":{
+		"google":"https://www.google.com/search?q=",
+		"stack":"https://stackoverflow.com/search?q=",
+		"duck":"https://duckduckgo.com/?q=",
+		"bing":"https://www.bing.com/search?q=",
+		"yahoo":"https://search.yahoo.com/search?p="}
+}

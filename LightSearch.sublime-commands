@@ -1,0 +1,15 @@
+[
+	{
+		"caption": "LightSearch: Search",
+		"command": "search"
+		// "args":{
+		// 	// "message": "Sample",
+		// 	// "position": 0
+		// } 
+	},
+	{
+		"caption": "LightSearch: Choose Engine",
+		"command": "change_engine"
+	}
+
+]
