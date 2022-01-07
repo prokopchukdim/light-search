@@ -1,10 +1,10 @@
-[
-	{
-		"keys": ["super+alt+s"],
-		"command": "light_search"
-	},
-	{
-		"keys": ["super+alt+c"],
-		"command": "light_search_change_engine"
-	}
-]
+// [
+// 	{
+// 		"keys": ["super+alt+s"],
+// 		"command": "light_search"
+// 	},
+// 	{
+// 		"keys": ["super+alt+c"],
+// 		"command": "light_search_change_engine"
+// 	}
+// ]
