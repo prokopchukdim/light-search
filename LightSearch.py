@@ -62,7 +62,7 @@ class EngineInputHandler(sublime_plugin.ListInputHandler):
 		]
 
 #Controls the SearchCommand command call
-class SearchCommand(sublime_plugin.TextCommand):
+class LightSearchCommand(sublime_plugin.TextCommand):
 	
 	def run(self,edit,query):
 		webbrowser.open(LightSearch.get_search_link(LightSearch.get_engine()) + query)
@@ -75,7 +75,7 @@ class SearchCommand(sublime_plugin.TextCommand):
 		return "String to search"
 
 #Controls the ChangeEngineCommand command call
-class ChangeEngineCommand(sublime_plugin.TextCommand):
+class LightSearchChangeEngineCommand(sublime_plugin.TextCommand):
 	
 	def run(self,edit,engine):
 		LightSearch.change_engine(engine)
