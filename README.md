@@ -1,4 +1,4 @@
-# light-search
+# LightSearch
 A lightweight search plug-in built in and for Sublime Text 4. Inspired by WebSearch and Google Search for Sublime, but combines command functionality into one multipurpose command.
 
 Currently supports: 
